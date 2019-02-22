@@ -1,0 +1,11 @@
+programação procedural -> vai executando linha a linha
+POO ->
+
+atributos = variáveis que estão dentro de uma classe
+
+dentro de uma classe deve ter uma função construtora: __init__()
+
+iniciar as classes com letra maiúscula
+
+o primeiro parâmetro do construtor deve ser sempre instancia
+instancia = self
